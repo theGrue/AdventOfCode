@@ -1,0 +1,20 @@
+{
+  "name": "advent-of-code",
+  "version": "0.0.0",
+  "description": "",
+  "homepage": "",
+  "author": {
+    "name": "theGrue",
+    "email": "gruenberg@gmail.com",
+    "url": ""
+  },
+  "main": "advent.js",
+  "keywords": [],
+  "repository": "/advent-of-code",
+  "private": true,
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "md5": "^2.0.0",
+    "minimist": "^1.2.0"
+  }
+}
